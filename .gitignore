@@ -1,0 +1,65 @@
+# Executable
+*.out
+
+# Wave file
+*.vcd
+*.vcd.pdf
+
+# modelsim
+# ignore ModelSim generated files and directories (temp files and so on)
+[_@]*
+
+# ignore compilation output of ModelSim
+*.mti
+*.dat
+*.dbs
+*.psm
+*.bak
+*.cmp
+*.html
+*.bsf
+
+# ignore simulation output of ModelSim
+wlf*
+*.wlf
+*.vstf
+*.ucdb
+transcript*
+sc_dpiheader.h
+vsim.dbg
+
+# FOSS 
+*.asc
+*.bin
+*.blif
+*.swp
+*.json
+host
+*.o
+
+# verilator
+obj_dir
+
+# vivado
+.Xil
+
+# temp
+*.swp
+
+#vcs
+csrc 
+simv* 
+*.key 
+*.vcd
+
+#vcs + verdi
+*.log
+*.daidir
+*.fsdb
+*.vdb
+novas.conf
+novas.rc
+verdiLog
+
+# UVM
+vc_hdrs.h
