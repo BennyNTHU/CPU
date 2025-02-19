@@ -1,3 +1,16 @@
+*.bat
+*.pb
+*.prj
+*.ini
+*.sdb
+*.dcp
+*.tcl
+*.js
+*.sh
+*.rst
+*.wdf
+*.wpc
+
 # Executable
 *.out
 
