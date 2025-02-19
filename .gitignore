@@ -10,6 +10,14 @@
 *.rst
 *.wdf
 *.wpc
+*.rlx
+*.xpr
+*.vds
+*.xml
+*.rpt
+*.db
+*.rlx
+*.rpt
 
 # Executable
 *.out
