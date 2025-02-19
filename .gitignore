@@ -18,6 +18,11 @@
 *.db
 *.rlx
 *.rpt
+*.lpr
+*.txt
+*.jou
+*synth.v
+*glbl.v
 
 # Executable
 *.out
